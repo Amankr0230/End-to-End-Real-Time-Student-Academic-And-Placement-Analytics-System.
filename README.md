@@ -54,6 +54,14 @@ GitHub Repository 🔗
 
 https://github.com/Amankr0230/End-to-End-Real-Time-Student-Academic-And-Placement-Analytics-System
 
+![Student Analytics Dashboard](Pictures/Aman.jpg)
+
+
+[Watch Dashboard Demo](Pictures/Aman.mp4)
+
+
+
 Hashtags
 
 #DataScience #MachineLearning #Python #SQL #Streamlit #Docker #CloudComputing #HuggingFace #Analytics #DataEngineering #EndToEndProject #PredictiveAnalytics #PortfolioProject #StudentAnalytics #MLProject #DataVisualization #RealTimeAnalytics
+
