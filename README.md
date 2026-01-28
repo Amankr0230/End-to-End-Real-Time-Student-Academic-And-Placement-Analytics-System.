@@ -24,13 +24,10 @@ This project provides **real-time insights into student academic performance and
 - **Version Control:** Git & GitHub  
 
 ## Screenshots
-<img src="Pictures/demo.jpg" alt="Dashboard Screenshot" width="200"/>
+ <img src="Pictures/phase 5.png" alt="Dashboard Screenshot" width="500"/> <img src="Pictures/phase 1.png" alt="Dashboard Screenshot" width="500"/>                                                                    <img src="Pictures/phase 2.png" alt="Dashboard Screenshot" width="500"/> <img src="Pictures/phase 3.png" alt="Dashboard Screenshot" width="500"/>
+ <img src="Pictures/phase 4.png" alt="Dashboard Screenshot" width="500"/> <img src="Pictures/phase 6.png" alt="Dashboard Screenshot" width="500"/> 
 
-## Demo Video
-<video width="600" controls>
-  <source src="Pictures/Aman.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 
 
